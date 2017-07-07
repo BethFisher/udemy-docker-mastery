@@ -1,1 +1,1 @@
-# create your custom drupal image here, based of official drupal
+# create your custom drupal image here, based on official drupal
